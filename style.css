@@ -2,7 +2,7 @@ body {
     background-color: rgba(244, 235, 225, 1);
 }
 
-.Content {
+.Content { /*Tous les contenus*/
 position: absolute;
 width: 360px;
 height: 603px;
