@@ -17,13 +17,24 @@ font-family: 'Archivo';
 
     color: #604E3A;
     text-align: center;
+}
+
+#SurTitre {
+    text-align: left;
+
+}    
+
+#SousTitre {
+    text-align: left;
+
+}    
+
+
+.Groupe{ /*Toutes les lignes chanson*/
 
 }
 
-.Groupe{ /*Ligne chanson*/
-
-}
-
+<<<<<<< HEAD
 .btnI {
     position: absolute;
     left: 0%;
@@ -32,4 +43,8 @@ font-family: 'Archivo';
     bottom: 0%;
 }
 
+=======
+.Grp1{ /*Une ligne spé*/
+>>>>>>> b953f8f43bd890e0df5aa4016b0a485e12740c89
 
+}
