@@ -19,3 +19,8 @@ font-family: 'Archivo';
 
 }
 
+.btn{
+    background: #D49A7A;
+    border: 2px solid rgba(255, 255, 255, 0.42);
+}
+
