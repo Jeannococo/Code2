@@ -3,14 +3,21 @@ body {
     ;
 }
 
-#Content {
+.Content {
 position: absolute;
 width: 360px;
 height: 603px;
 left: 218px;
 top: 94px;
 
-background: #c47070;
+background: #ffff;
 box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.05), 0px 4px 70px rgba(0, 0, 0, 0.13);
 border-radius: 10px;
+
+font-family: 'Archivo';
+    color: #604E3A;
+    text-align: center;
+
 }
+
+
