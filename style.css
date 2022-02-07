@@ -15,9 +15,6 @@ border-radius: 10px;
 }
 
 .btn{
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+    background: #D49A7A;
+    border: 2px solid rgba(255, 255, 255, 0.42);
 }
